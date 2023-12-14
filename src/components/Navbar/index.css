@@ -1,0 +1,78 @@
+/* Write your CSS here */
+
+.light-theme {
+  background-color: #dcdcdc;
+}
+.dark-theme {
+  background-color: #333333;
+}
+.nav-bg-container {
+  border-bottom: 2px solid black;
+}
+
+.light-para {
+  color: white;
+  font-size: 20px;
+  margin: 0px;
+  font-weight: 500;
+
+  font-family: roboto;
+}
+.dark-para {
+  color: black;
+  font-size: 20px;
+  margin: 0px;
+  font-weight: 500;
+
+  background-color: transparent;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.theme-image-style {
+  border-width: 0px;
+  background-color: transparent;
+  padding: 10px;
+}
+li {
+  margin-left: 0px;
+}
+.logo-size {
+  width: 80px;
+}
+.theme-style-size {
+  width: 50px;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  height: 100px;
+  padding-left: 40px;
+  padding-right: 60px;
+}
+
+.home-about-bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+
+.text-underline {
+  text-decoration: none;
+}
+
+.click-me {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: roboto;
+  color: red;
+}

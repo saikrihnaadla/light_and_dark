@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.not-found-dark {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 82vh;
+}
+
+.not-found-light {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 75vh;
+}
+
+.light-n {
+  color: black;
+}
+.dark-n {
+  color: white;
+}

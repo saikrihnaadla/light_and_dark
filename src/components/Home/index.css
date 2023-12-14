@@ -1,0 +1,35 @@
+/* Write your CSS here */
+* {
+  margin-top: 0px;
+}
+.home-bg-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  min-height: 82vh;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.home-bg-white {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  min-height: 82vh;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.light-home-title {
+  color: black;
+}
+.home-image {
+  width: 10%;
+}
+.dark-home-title {
+  color: white;
+}
